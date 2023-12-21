@@ -1,6 +1,6 @@
-<h1> Hello 👋 <\h1>
+<h3> Hello 👋 </h3>
 
- 🌱 I’m currently learning Python
+🌱 I’m currently learning Python
  😄 Pronouns: she/her
 
 <!--
