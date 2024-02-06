@@ -1,6 +1,6 @@
 <h3> Hello 👋 </h3>
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & SQL 
 
  - 😄 Pronouns: she/her
    
